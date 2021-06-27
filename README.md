@@ -1,5 +1,5 @@
 ## Learning Project
-## Websites used:
+## Websites used to scrape data:
 - https://www.imdb.com/search/title/?groups=top_250&sort=user_rating
 - https://www.worldometers.info/world-population/population-by-country/
 
